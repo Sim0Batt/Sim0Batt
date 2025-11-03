@@ -1,5 +1,6 @@
 # 💫 About Me:
-My name is Simone Battisti, I'm a software developer interested on Backend and AI development.<br>
+My name is Simone Battisti, I'm a **software developer** interested on **Backend development** and **AI development**.
+I'm currently a Kotlin Software Engeneer specialized in Backend Kotlin Developement and AI Kotlin Integration<br>
 
 
 ## 🌐 Socials:
