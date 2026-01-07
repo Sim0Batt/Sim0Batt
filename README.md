@@ -14,5 +14,3 @@ I'm currently a Kotlin Software Engeneer specialized in Backend Kotlin Developem
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sim0Batt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
