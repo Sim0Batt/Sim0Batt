@@ -6,7 +6,7 @@
 <p><sub>RECRUITER SIGNAL BRIEF · sim0batt</sub></p>
 <h1>Simone Battisti</h1>
 <h2>Frontend or full-stack engineer</h2>
-<p>Sono uno studente dell’Università di Trento, in particolare del Dipartimento di Ingegneria Informatica, delle Comunicazioni ed Elettronica. Ho frequentato il Liceo Scientifico Leonardo Da Vinci di Trento. Mi occupo principalmente dello studio di nuove conoscenze informatiche nell’ambito di sviluppo Software Mobile e Web, datemi dalla scuola e da corsi frequentati privatamente.</p>
+<p>I am a student at the University of Trento, specifically in the Department of Computer, Communications, and Electronics Engineering. I attended the Leonardo da Vinci Scientific High School in Trento. I focus primarily on acquiring new computer science knowledge in the field of mobile and web software development, which I have gained through my school and private courses.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Aldeno (TN) · Building at @interactivemediacompany </sub></p>
 <p><a href="https://github.com/sim0batt">GitHub</a> &nbsp;·&nbsp; <a href="mailto:simonebatt51@gmail.com">Email</a></p>
@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-<p><sub>Sono uno studente dell’Università di Trento, in particolare del Dipartimento di Ingegneria Informatica, delle Comunicazioni ed Elettronica. Ho frequentato il Liceo Scientifico Leonardo Da Vinci di Trento. Mi occupo principalmente dello studio di nuove conoscenze informatiche nell’ambito di sviluppo Software Mobile e Web, datemi dalla scuola e da corsi frequentati privatamente.</sub></p>
+<p><sub>I am a student at the University of Trento, specifically in the Department of Computer, Communications, and Electronics Engineering. I attended the Leonardo da Vinci Scientific High School in Trento. I focus primarily on acquiring new computer science knowledge in the field of mobile and web software development, which I have gained through my school and private courses.</sub></p>
 
 <h2>Proof at a glance</h2>
 
