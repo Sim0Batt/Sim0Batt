@@ -1,16 +1,130 @@
-# 💫 About Me:
-My name is Simone Battisti, I'm a **software developer** interested on **Backend development** and **AI development**.
-I'm currently a Kotlin Software Engeneer specialized in Backend Kotlin Developement and AI Kotlin Integration<br>
+<div align="center">
 
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · sim0batt</sub></p>
+<h1>Simone Battisti</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Sono uno studente dell’Università di Trento, in particolare del Dipartimento di Ingegneria Informatica, delle Comunicazioni ed Elettronica. Ho frequentato il Liceo Scientifico Leonardo Da Vinci di Trento. Mi occupo principalmente dello studio di nuove conoscenze informatiche nell’ambito di sviluppo Software Mobile e Web, datemi dalla scuola e da corsi frequentati privatamente.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Aldeno (TN) · Building at @interactivemediacompany </sub></p>
+<p><a href="https://github.com/sim0batt">GitHub</a> &nbsp;·&nbsp; <a href="mailto:simonebatt51@gmail.com">Email</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/74011377?v=4" width="180" alt="Simone Battisti GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simo.battisti) 
+<h2>What teams can evaluate quickly</h2>
 
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) !![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Sim0Batt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sim0Batt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Gaia Desktop Assistant · MacOS Spotlight for Ubuntu · Single Player BlackJack</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>14 repositories · 3 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>434 contributions · 121 active days</p></td>
+</tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sim0Batt&icon=0&color=0)](https://visitcount.itsvg.in)
+<p><sub>Sono uno studente dell’Università di Trento, in particolare del Dipartimento di Ingegneria Informatica, delle Comunicazioni ed Elettronica. Ho frequentato il Liceo Scientifico Leonardo Da Vinci di Trento. Mi occupo principalmente dello studio di nuove conoscenze informatiche nell’ambito di sviluppo Software Mobile e Web, datemi dalla scuola e da corsi frequentati privatamente.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>14</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>434</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>4</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sim0batt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74011377%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=sim0batt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74011377%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Simone Battisti GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sim0batt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74011377%3Fv%3D4&repos=sim0batt%2FUbuntu-Spotlight%2Csim0batt%2FGaia-Assistant%2Csim0batt%2FPermitNow%2Csim0batt%2FLoopy&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sim0batt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74011377%3Fv%3D4&repos=sim0batt%2FUbuntu-Spotlight%2Csim0batt%2FGaia-Assistant%2Csim0batt%2FPermitNow%2Csim0batt%2FLoopy&v=recruiter-projects-1&mode=dark" width="100%" alt="Simone Battisti selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Sim0Batt/Ubuntu-Spotlight">Ubuntu-Spotlight</a></h3>
+<p>macOS spotlight for Ubuntu</p>
+<p><sub>Python · ⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/Sim0Batt/Ubuntu-Spotlight">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Sim0Batt/Gaia-Assistant">Gaia-Assistant</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Sim0Batt/PermitNow">PermitNow</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Sim0Batt/Loopy">Loopy</a></h3><p>A selected public project.</p><p><sub>Kotlin · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sim0batt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74011377%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=sim0batt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74011377%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Simone Battisti technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Kotlin</strong><br /><sub>39% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>24% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>11% of public code</sub></td>
+<td width="20%" align="center"><strong>C</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>Vue</strong><br /><sub>8% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sim0batt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74011377%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sim0batt&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F74011377%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Simone Battisti contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/sim0batt">GitHub</a><br /><a href="mailto:simonebatt51@gmail.com">Email</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Simone Battisti · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+## Experience
+
+<table>
+<tr><td width="34%" valign="top"><b>Comune di Aldeno (TN) — Tecnico Informatico</b><br /><sub>Dicembre 2020 – Giugno 2021</sub></td><td width="66%" valign="top"></td></tr><tr><td width="34%" valign="top"><b>Scania Commerciale — Magazziniere</b><br /><sub>Luglio 2022 – Settembre 2022</sub></td><td width="66%" valign="top"></td></tr><tr><td width="34%" valign="top"><b>Factory Mind — Software Developer (C#, WinForm and DevExpress)</b><br /><sub>Luglio 2024 – Maggio 2025</sub></td><td width="66%" valign="top"><ul><li>creazione componenti e debugging di un software per aziende che operano nel campo delle costruzioni chiamato CPM di proprietà di TeamSystem S.p.A.</li><li>Creazione e gestione di componenti per un sito che opera nel campo dell’E-Commerce chiamato Eurocomference.</li><li>rigenerazione del sito per l’azienda CodeIsland (codeisland.io).</li></ul></td></tr><tr><td width="34%" valign="top"><b>Interactive Media SpA — Sviluppatore AI (Kotlin, Python, Linux, Docker, SQL)</b><br /><sub>Maggio 2025 – Presente</sub></td><td width="66%" valign="top"><ul><li>sviluppo soluzioni basate su Intelligenza Artificiale per la creazione di agenti virtuali conversazionali.</li><li>sviluppo di un sistema di monitoring dei processi aziendali su macchine RedHat con tecnologia systemd-sdnotify.</li><li>sviluppo della nuova suite interna di lavoro per la costruizione di agenti virtuali conversazionali.</li></ul></td></tr>
+</table>
+
+<b>Education</b>
+
+- Diploma di Maturità — Liceo Leonardo Da Vinci (TN) (Settembre 2018 – Giugno 2023)
+- Laurea (in corso) — Università degli Studi di Trento, DISI (Settembre 2023 – Presente)
+
+<b>Projects</b>
+
+- <b>NoteTom</b>
